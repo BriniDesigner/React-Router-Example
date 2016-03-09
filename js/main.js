@@ -1,4 +1,3 @@
-import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
 
 import Products from './components/products.js';
