@@ -22,4 +22,4 @@ To compile the JSX files and create the bundle, run the following npm command:
 $ npm run compile
 ```
 
-More ressources: http://brinidesigner.com/blog/
+More resources: http://brinidesigner.com/blog/
