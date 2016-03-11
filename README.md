@@ -22,4 +22,4 @@ To compile the JSX files and create the bundle, run the following npm command:
 $ npm run compile
 ```
 
-Tutorial: http://brinidesigner.com/react-router-example-with-es6/
+More ressources: http://brinidesigner.com/blog/
